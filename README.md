@@ -1,2 +1,9 @@
-# JSONSignInExample
-This is a JSON showcase of a username and password application using C++. This has no security protections and is primarily made to show the ability of coding a JSON file.
+# JSON Sign In Project
+This is a project made to show the ability to use JSON. The sign in and account upload part isn't a primary part.
+The point is to show saving rather than account management ability.
+## MIT License
+The MIT license is here because I made this project without help of any external sources.
+Please feel free to test the project out and edit it at your will!
+## Notes
+* This project has multiple function with the purpose to make the main function easier to understand.  
+* Project was made in Eclipse IDE.
