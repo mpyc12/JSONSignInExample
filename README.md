@@ -7,6 +7,6 @@ This project is released under the MIT License. Meaning that this code was writt
 
 Feel free to experiment with the project and modify it at will.
 ## Notes
-* This project has multiple function with the purpose to make the main function more organised.
+* This project has multiple functions to keep the main function more organised.
 * Uses JSON for saving and loading data.
 * Project was created in Eclipse IDE.
