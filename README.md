@@ -1,10 +1,12 @@
 # JSON Sign In Project
-This is a project made to show the ability to use JSON. The sign in and account upload part isn't a primary part.
+This project was created to explore saving and loading data using JSON in C++.  
+The sign in and account upload part isn't a primary part.  
 The point is to show saving rather than account management ability.
 ## MIT License
-The MIT license is here because I made this project without help of any external sources.
-Please feel free to test the project out and edit it at your will!
+This project is released under the MIT License. Meaning that this code was written independently without using external source code.
+
+Feel free to experiment with the project and modify it at will.
 ## Notes
-* This project has multiple function with the purpose to make the main function easier to understand.
-* Using JSON file saver
-* Project was made in Eclipse IDE.
+* This project has multiple function with the purpose to make the main function more organised.
+* Uses JSON for saving and loading data.
+* Project was created in Eclipse IDE.
